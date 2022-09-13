@@ -1,5 +1,5 @@
 # Welcome to my GIthub!
-![Image of Yaktocat][(https://octodex.github.com/images/yaktocat.png ](https://camo.githubusercontent.com/d8f7abcee9fdb2cded758cbff3b0b3036d4a4641bf58f0cb221aa3d4c1b17d93/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67)
+![Cat with wine bottle]https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/08_22_Winery_Cats_HERO_GettyImages_475462958_1920x1280.jpg
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 - [ ] Turn on GitHub Pages
